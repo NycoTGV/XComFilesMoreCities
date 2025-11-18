@@ -1,0 +1,6 @@
+name: "XCom Files More Cities"
+version: "2.2"
+author: "TGV (primary), XCOM-Terrain-Pack"
+description: "Includes 130+ new cities. Assign coordinates to already present strings. Fixed Location of Montreal, Portland and Tianjin."
+id: XCF-MoreCites
+master: x-com-files

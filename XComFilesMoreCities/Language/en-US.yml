@@ -1,0 +1,202 @@
+en-US:
+  ## NORTH AMERICA CITIES
+  STR_GUATEMALA: "Guatemala City"
+  STR_ACAPULCO: "Acapulco"
+  STR_MERIDA: "Merida"
+  STR_SANJOSE: "San Jose"
+  STR_OKLAHOMACITY: "Oklahoma City"
+  STR_JACKSONVILLE: "Jacksonville"
+  STR_ALBIRMINGHAM: "Birmingham" #repeating name, replaced with Mobile
+  STR_MOBILE: "Mobile"
+  STR_OTTAWA: "Ottawa"
+  STR_COLUMBUS: "Columbus"
+  STR_OMAHA: "Omaha"
+  STR_MILWAUKEE: "Milwaukee"
+  STR_SPOKANE: "Spokane"
+  STR_MINOT: "Minot" #cut
+  STR_VERACRUZ: "Veracruz" #cut, crowding issue
+  STR_GUANTANAMO: "Guantanamo"
+  STR_BUFFALO: "Buffalo" #cut, crowding issue
+  STR_PITTSBURGH: "Pittsburgh" #replaced with larger 90s Columbus
+  STR_YELLOWSTONE: "Yellowstone" #cut, no urban area, despite high tourism
+  STR_ASPEN: "Aspen" #cut, crowding issue
+  STR_PORTPRINCE: "Port-au-Prince" #cut, crowding issue
+  STR_PUERTORICO: "Puerto Rico" #cut, crowding issue
+  ## ARCTIC CITIES
+  STR_VORKUTA: "Vorkuta"
+  STR_BARENTSBURG: "Barentsburg"
+  STR_DIKSON: "Dikson"
+  STR_NORILSK: "Norilsk"
+  STR_KAUJUITOQ: "Resolute"
+  STR_PEVEK: "Pevek"
+  ## ANTARCTIC CITIES
+  STR_KERGUELEN: "Kerguelen Islands"
+  ## SOUTH AMERICA CITIES
+  STR_MALPLATA: "Mar del Plata"
+  STR_COMODORO: "Comodoro"
+  STR_ANTOFAGASTA: "Antofagasta"
+  STR_USHUAIA: "Ushuaia"
+  STR_AREQUIPA: "Arequipa"
+  STR_IQUITOS: "Iquitos"
+  STR_PUERTOMONTT: "Puerto Montt"
+  STR_TUCUMAN: "Tucuman"
+  STR_CORDOBA: "Cordoba"
+  STR_MEDELLIN: "Medellin"
+  STR_INIRIDA: "Inirida"
+  ## EUROPE CITIES
+  STR_SANTIAGODEC: "Santiago de Compostela" #cut
+  STR_KIRUNA: "Kiruna"
+  STR_ROVANIEMI: "Rovaniemi"
+  STR_NEWCASTLE: "Newcastle"
+  STR_DONETSK: "Donetsk"
+  STR_ESSEN: "Essen" #cut,crowding issue
+  STR_BONN: "Bonn"
+  STR_LEIPZIG: "Leipzig"
+  STR_ROTTERDAM: "Rotterdam" #cut,crowding issue
+  STR_STRASSBURG: "Strassbourg" #cut, crowding issue
+  STR_LUXEMBURG: "Luxembourg" #cut, crowding issue
+  STR_TOULOUSE: "Toulouse"
+  STR_POZNAN: "Poznan" #cut
+  STR_NANCY: "Nancy" #cut, crowding issue
+  STR_LODZ: "Lodz" #cut, crowding issue
+  STR_GOMEL: "Gomel"
+  STR_ELISTA: "Elista" #cut
+  STR_LEHAVRE: "Le Havre"
+  STR_STAVANGER: "Stavanger"
+  STR_PALMA: "Palma"
+  STR_SARDINIA: "Sardinia" #cut
+  STR_PISA: "Pisa" #cut, crowding issue
+  STR_GIBRALTAR: "Gibraltar" #cut
+  STR_VORONEZH: "Voronezh"
+  STR_GORKY: "Nizhny Novgorod"
+  STR_BERN: "Bern" #cut
+  STR_DUBROVNIK: "Dubrovnik" #cut
+  STR_LILLE: "Lille" #cut, crowding issue
+  STR_TRIESTE: "Trieste" #cut, crowding issue
+  STR_SALONIKA: "Salonika"
+  STR_BERN: "Bern" #cut
+  STR_PETROZAVODSK: "Petrozavodsk"
+  STR_LIMASSOL: "Limassol"
+  STR_LEEDS: "Leeds" #cut, replaced with Newcastle
+  STR_MONTPELLIER: "Montpellier" #cut, replaced with Toulouse
+  STR_AKROTIRI: "Akrotiri" #cut, replaced with Limassol
+  ## SIBERIA CITIES
+  STR_MAGADAN: "Magadan"
+  STR_SURGUT: "Surgut"
+  STR_BARNAUL: "Barnaul"
+  STR_CHITA: "Chita"
+  STR_MAGNITOGORSK: "Magnitogorsk"
+  STR_MIRNY: "Mirny"
+  ## NORTH AFRICA CITIES
+  STR_PORT_SUDAN: "Port Sudan"
+  STR_SABHA: "Sabha"
+  STR_TAMANRASSET: "Tamanrasset"
+  STR_SHARM: "Sharm El Sheikh"
+  STR_TANGIER: "Tangier"
+  STR_FAYA: "Faya-Largeau"
+  STR_ORAN: "Oran"
+  STR_GAO: "Gao"
+  STR_TINDOUF: "Tindouf"
+  STR_AGADEZ: "Agadez"
+  ## SOUTH AFRICA CITIES
+  STR_SIKASSO: "Sikasso"
+  STR_CONAKRY: "Conakry"
+  STR_KANKAN: "Kankan"
+  STR_KORHOGO: "Korhogo"
+  STR_GODE: "Gode"
+  STR_GAROUA: "Garoua"
+  STR_POINTENOIRE: "Pointe-Noire"
+  STR_PORT_HARCOURT: "Port Harcourt"
+  STR_BERBERA: "Berbera"
+  STR_DODOMA: "Dodoma"
+  STR_GQEBERHA: "Port Elizabeth"
+  STR_SARH: "Sarh"
+  STR_LOME: "Lomé" #cut
+  STR_DOUALA: "Douala"
+  STR_BENIN: "Benin City"
+  STR_MAKURDI: "Makurdi"
+  STR_TAMBACOUNDA: "Tambacounda" #cut
+  STR_BIOKO: "Bioko" #cut
+  STR_NDAR: "Saint-Louis"
+  STR_KUMASI: "Kumasi"
+  STR_MBUJIMAYI: "Mbuji-Mayi"
+  STR_MBANDAKA: "Mbandaka"
+  STR_BUNIA: "Bunia"
+  STR_LUBUMBASHI: "Lubumbashi"
+  STR_BULAWAYO: "Bulawayo"
+  STR_LUBANGO: "Lubango"
+  STR_JUBA: "Juba"
+  STR_NYALA: "Nyala"
+  STR_HARAR: "Harar"
+  STR_GONDAR: "Gondar"
+  ## CENTRAL ASIA CITIES
+  STR_ASTANA: "Akmola"
+  STR_VLADIKAVKAZ: "Vladikavkaz" #cut, replaced with Makhachkala
+  STR_MAKHACHKALA: "Makhachkala"
+  STR_URFA: "Urfa"
+  STR_GOA: "Goa"
+  STR_QOM: "Qom"
+  STR_SRINAGAR: "Srinagar"
+  STR_QUETTA: "Quetta"
+  STR_TABRIZ: "Tabriz"
+  STR_AKTAU: "Aktau"
+  STR_NAMANGAN: "Namangan"
+  STR_NUKUS: "Nukus"
+  STR_HERAT: "Herat"
+  STR_BASRA: "Basra"
+  STR_MOSUL: "Mosul"
+  STR_ARRUTBAH: "Ar-Rutbah"
+  STR_ZABOL: "Zabol" #cut
+  STR_ABUDHABI: "Abu Dhabi" #cut
+  STR_MEDINA: "Medina"
+  STR_DAMMAM: "Dammam"
+  STR_ADEN: "Aden"
+  STR_BANDARABBAS: "Bandar Abbas"
+  STR_SALALAH: "Salalah"
+  STR_GAZA: "Gaza" 
+  ## AUSTRALASIA CITIES
+  STR_JAYAPURA: "Jayapura"
+  STR_ALICE: "Alice Springs"
+  STR_ESPIRITU_SANTO: "Espiritu Santo"
+  ## SOUTH EAST ASIA CITIES
+  STR_SAMUI: "Koh Samui"
+  STR_CHIANGMAI: "Chiang Mai"
+  STR_MANDALAY: "Mandalay"
+  STR_LINYI: "Linyi"
+  STR_KUNMING: "Kunming"
+  STR_NANNING: "Nanning"
+  STR_CHANGSHA: "Changsha"
+  STR_PHNOMPENH: "Phnom Penh"
+  STR_MAKASSAR: "Makassar"
+  STR_PALEMBANG: "Palembang"
+  STR_PYONGYNAG: "Pyongyang"
+  STR_DAEJEON: "Daejeon"
+  STR_BAOTOU: "Baotou"
+  STR_BRUNEI: "Brunei"
+  STR_BALI: "Bali"
+  STR_VIENTIANE: "Vientiane" #cut, maybe?
+  ## ATLANTIC/PACIFIC/INDIAN CITIES
+  STR_IQALUIT: "Iqaluit"
+  STR_NAIN: "Nain" #cut
+  STR_SAINT_PIERRE: "St. Pierre"
+  STR_GUAM: "Guam"
+  STR_TRINDADE_ISLAND: "Port of Spain"
+  STR_KURIL_ISLANDS: "Kuril Islands"
+  STR_KIRIBATI: "Kiribati"
+  STR_PITCAIRN: "Pitcairn Islands"
+  STR_NAURU: "Nauru"
+  STR_SAMOA: "Samoa"
+  STR_SAINT_HELENA: "Saint Helena"
+  STR_TRISTAN: "Tristan da Cunha"
+  STR_SOUTH_GEORGIA: "South Georgia"
+  STR_COCOS_ISLANDS: "Cocos Islands"
+  STR_DIEGO_GARCIA: "Diego Garcia"
+  STR_MADEIRA: "Madeira"
+  STR_BORABORA: "Bora-Bora"
+  STR_COMOROS: "Comoros"
+  STR_OKINAWA: "Okinawa"
+  STR_Reunion: "Reunion" #cut
+  STR_SAOTOME: "São Tomé"
+  STR_BLAIR: "Port Blair"
+  STR_BATANES: "Batanes Islands"
+  STR_GUADELOUPE: "Guadeloupe"
