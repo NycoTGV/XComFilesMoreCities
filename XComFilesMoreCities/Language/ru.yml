@@ -152,7 +152,8 @@ ru:
   STR_ASMARA: "Асмара"
   STR_WAU: "Вау"
   STR_AGADEZ: "Агадес"
-  STR_DAKHLA: "Дахла" #cut
+  STR_ELAAIUN: "Эль-Аюн"
+  STR_PARAKOU: "Параку"
   STR_CHINGUETTI: "Чингуэтти"
   STR_TIMBUKTU: "Тимбукту"
   STR_ABECHE: "Абече"
@@ -163,7 +164,7 @@ ru:
   STR_SIKASSO: "Сикассо"
   STR_CONAKRY: "Конакри"
   STR_KANKAN: "Канкан"
-  STR_KORHOGO: "Корхого"
+  STR_BOUAKE: "Буаке"
   STR_GODE: "Годе"
   STR_GAROUA: "Гаруа"
   STR_PORT_HARCOURT: "Порт-Харкорт"
@@ -171,7 +172,7 @@ ru:
   STR_SKIRRING: "Кап-Скирринг"
   STR_BATA: "Бата"
   STR_SARH: "Сарх"
-  STR_LOME: "Ломе" #cut
+  STR_LOME: "Ломе"
   STR_DOUALA: "Дуала"
   STR_BENIN: "Бенин-Сити"
   STR_MAKURDI: "Макурди"
