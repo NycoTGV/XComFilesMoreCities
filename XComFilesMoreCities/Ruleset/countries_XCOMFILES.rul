@@ -33,7 +33,7 @@ countries:
       - [219, 224, -60.4, -57] # Alaska Juneau Box 1
       - [224, 230, -58.5, -54] # Alaska Juneau Box 2
       - [292.474, 294.69, -17.65, -18.89] # Puerto Rico
-      - [186.596, 188.1, 14.22, 13.15] # American Samoa
+      - [184.92, 188.23, 14.20, 12.86] # American Samoa
       - [178.1, 199.174, -16.54, -29.4] # American Midway
       - [276.1, 277.37, -24.3, -24.97] # Florida Keys
       - [288.294, 292.3, -76.8, -77.78] # Thule Base
@@ -59,7 +59,8 @@ countries:
       - [19.16, 22.84, -55.2, -54.52] # Kaliningrad Area
       - [36.59, 38.3, -46.75, -42] # west of Sochi
       - [141, 146, -50.5, -45.6] # Sakhalin
-      - [146, 191, -45.6, -50.5] # Kurils
+      - [146, 191, -45.6, -50.5] # Kurils 1
+      - [146.516, 151.94, -44, -45.67] # Kurils 2
   - type: STR_UK
     fundingBase: 20
     fundingCap: 7000
@@ -79,7 +80,7 @@ countries:
       - [337.857, 358.787, 37.84, 5.05] # Saint Helena, Ascension and Tristan da Cunha
       - [295.055, 295.713, -18.44, -18.92] # British Virgin Islands
       - [71.82, 74.45, 8.2, 6.87] # Diego Garcia
-      - [324, 325.85, 56.4, 55.7] # South Georgia
+      - [323, 326.78, 57.11, 55] # South Georgia
       - [33.57, 33.808, -34.81, -34.99] # SBA
       - [356.733, 357.937, -49, -49.4] # Channel Islands
   - type: STR_FRANCE
@@ -107,6 +108,7 @@ countries:
       - [54.32, 55.43, 17.155, 16.4] # French Indian Ocean 1
       - [54.92, 56.47, 21.43, 20.79] # French Indian Ocean 2
       - [76.15, 81.31, 39.24, 37.65] # French Indian Ocean 3
+      - [46.15, 47.14, 12, 11.42] # French Mayotte
       - [32.412, 77.43, 52.82, 45.72] # French Arctic Islands
   - type: STR_GERMANY
     fundingBase: 25
@@ -155,8 +157,10 @@ countries:
       - [352.411, 353.59, -39, -37.6] # C near Portugal 1
       - [352.917, 353.59, -40, -39] # C near Portugal 2
       - [352.32, 359.1, -37.6, -36.1] # Southern Part of Spain
-      - [1.92, 3.7, -40.17, -39] # Maiorca
-      - [338.429, 339.545, -25.8, -26.37] # Canaries
+      - [1.92, 3.7, -40.17, -39] # Maiorca 1
+      - [3.46, 4.517, -39.59, -40.37] # Maiorca 2
+      - [1, 2.1, -38.48, -39.72] # Maiorca 3
+      - [336.63, 341, -25.6, -27.4] # Canaries
   - type: STR_VIETNAM
     fundingBase: 20
     fundingCap: 700
@@ -221,7 +225,7 @@ countries:
       - [74, 79, -35, -30]
       - [85, 89, -27, -18]
       - [68, 70, -23.81, -21.27]
-      - [92.69, 95.15, -9.98, -14.89] # Indian Indian Ocean 1
+      - [92.47, 95.39, -7.3, -15.64] # Indian Indian Ocean 1
       - [66, 70, -8.07, -10.29] # Indian Indian Ocean 2
       - [89.7, 95.74, -24.85, -26.82] # Seven Sisters 1
       - [91.67, 97.1, -26.78, -28.04] # Seven Sisters 2
@@ -311,6 +315,7 @@ countries:
       - [281, 284.3, -44.5, -43.38] #Toronto Region 3
       - [293.5, 298, -45, -43.2] #Newfoundland 1
       - [305, 307.89, -49.37, -46.77] #Newfoundland 2
+      - [229.9, 234.9, -47, -49] #Vancouver Island
   - type: STR_CUBA
     fundingBase: 15
     fundingCap: 1500
@@ -415,6 +420,8 @@ countries:
       - [351.086, 354.754, -61.406, -62.69] # Faroe
       - [291.12, 347.243, -69.58, -75.99] # Greenland 1
       - [300, 334.68, -58.3, -69.58] # Greenland 2
+      - [290.7, 345.17, -76, -80.06] # Greenland 3
+      - [14.08, 15.62, -54.73, -55.26] # Bornholdm
   - type: STR_ESTONIA
     fundingBase: 20
     fundingCap: 1400
@@ -683,7 +690,7 @@ countries:
       - [279.75, 281.6, 2.5, 5] # Southern Ecuador
       - [281.6, 283, 2.5, 3.8] # Southeastern Ecuador
       - [282, 284.2, -0.2, 2.5] # Main Ecuador
-      - [267, 271, 2.1, 0.15] # Ecuadorian Pacific
+      - [266, 271.3, 2.83, -0.19] # Ecuadorian Pacific
   - type: STR_COLOMBIA
     fundingBase: 10
     fundingCap: 1800
@@ -714,6 +721,7 @@ countries:
       - [4.5, 12.5, -64, -58.7] # Central Norway
       - [5.35, 11.64, -58, -58.7] # Southern Norway
       - [7.8, 27.7, -76.22, -80.12] # Spitzbergen
+      - [357.5, 2.1, -71.14, -73.18] # Jan Mayen
       - [9.44, 16.48, 59.74, 57.67] # Bouvet Island
   - type: STR_SWEDEN
     fundingBase: 15
