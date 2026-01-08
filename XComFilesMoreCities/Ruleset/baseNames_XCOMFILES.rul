@@ -76,9 +76,23 @@ baseNamesFirst:
   - A
   - E
   - Z
+  - Flux
+  - Beta
+  - Zeta
+  - Skinwalker
+  - Sleepwalker
+  - Dreaming
+  - Thinker
+  - Dreamer
   - The
+  - Lost
+  - Mirovia
   - Valor
   - Friendship
+  - Seven
+  - Majestic
+  - Magnificent
+  - Lustral
 baseNamesLast:
   - Base
   - Bunker
@@ -122,3 +136,24 @@ baseNamesLast:
   - Training Center
   - Vigil
   - Annex
+  - Island
+  - Hollow
+  - Adyton
+  - Villa
+  - Unguent
+  - Pithos
+  - Shinden
+  - Mount
+  - Tombs
+  - Monument
+  - Traps
+  - Fault
+  - Rift
+  - Trough
+  - Zenith
+  - Shrine
+  - Ranch
+  - Abyss
+  - Trench
+  - Expedition
+  - Oracula

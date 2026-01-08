@@ -38,6 +38,8 @@ countries:
       - [276.1, 277.37, -24.3, -24.97] # Florida Keys
       - [288.294, 292.3, -76.8, -77.78] # Thule Base
       - [130.821, 173.594, -5, -15.4] # American Pacifc and Free Associations
+      - [186.381, 190, -57.2, -63.49] # St. Lawrence Island & Saint Paul Island
+      - [168, 190.24, -50.67, -57.16] # Aleutian Islands
   - type: STR_RUSSIA
     fundingBase: 30
     fundingCap: 10000
@@ -199,21 +201,31 @@ countries:
       - [107, 112, -42.5, -22] # Mainland China 3
       - [112, 122, -43, -26] # Mainland China 4
       - [112, 119.5, -26, -22] # Hong Kong
-      - [118, 122, -50, -43] # Western Manchuria
-      - [122, 126.27, -52, -49.49] # Northern Manchuria
-      - [122.13, 130.48, -49.40, -41] # Central Manchuria
+      - [118, 122, -50, -43] # Western Dongbei
+      - [122, 126.27, -52, -49.49] # Northern Dongbei
+      - [122.13, 130.48, -49.40, -41] # Central Dongbei
+      - [122, 124.764, -36.24, -40.98] # Fareast Dongbei
+      - [130.47, 133.986, -45.68, -49.12] # Far northeast Dongbei
+      - [120.1, 121.971, -49.96, -52.87] # Farnorth Dongbei 1
+      - [121.95, 126.454, -52, -52.96] # Farnorth Dongbei 2
+      - [126.3, 127.98, -49.4, -51.9] # Farnorth Dongbei 3
       - [108, 113, -22, -17.75] # Southern China near Hainan and Hainan Island
       - [119.54, 122.8, -21.54, -25.93] # Island Chain
+      - [85, 87.95, -28.69, -30] # Everrest 1
+      - [93, 97.97, -29, -30] # Everrest 2
+      - [96.44, 97.91, -27.34, -29] # Burma-China
+      - [122, 123.9, -28.55, -31.58] # East of Shanghai
   - type: STR_JAPAN
     fundingBase: 40
     fundingCap: 10000
-    labelLon: 138
-    labelLat: -38.25
+    labelLon: 134.5
+    labelLat: -37.67
     areas:
       - [130, 143, -40, -30]
       - [138, 147, -45.6, -40]
       - [129, 130, -34, -31.95]
       - [126.7, 143.1, -22.91, -29.86] # Outer Japanese Islands
+      - [129.317, 129.98, -33.97, -34.84] # Tsushima Island
   - type: STR_INDIA
     fundingBase: 10
     fundingCap: 5000
@@ -264,6 +276,7 @@ countries:
       - [186.852, 190.96, 20.04, 17.94] # Tonga Protectorate
       - [174.3, 177.3, 9, 6.15] # Tuvalu Protectorate
       - [155.86, 165.787, 35.19, 24.59] # Norfolk Island
+      - [66.86, 81.85, 59.3, 54.26] # Heard Island and McDonald Islands
   - type: STR_NETHERLANDS
     fundingBase: 20
     fundingCap: 2750
@@ -289,6 +302,8 @@ countries:
     areas:
       - [15, 25, 26, 35]
       - [25, 33, 22, 35]
+      - [19.81, 24.93, 25.98, 24.56] # North Border
+      - [26.38, 32.35, 52.8, 48.69] # Prince Edward Islands
   - type: STR_EGYPT
     fundingBase: 10
     fundingCap: 2000
@@ -329,7 +344,9 @@ countries:
     labelLon: 126.5
     labelLat: -35
     areas:
-      - [125.5, 130, -38, -34] #South Korea
+      - [125.5, 130, -38, -34] #South Korea 1
+      - [126.6, 130, -38, -38.49] #South Korea 2
+      - [125.5, 127.6, -33.2, -34] #Jeju Island
   - type: STR_MONGOLIA
     fundingBase: 10
     fundingCap: 400
@@ -344,10 +361,13 @@ countries:
     labelLon: 171
     labelLat: 43
     areas:
-      - [164, 177.2, 40, 40] # New Zealand 1
-      - [164, 195.158, 47.88, 40] # New Zealand 2
+      - [164, 177.2, 40, 47] #New Zealand 1
+      - [172, 179, 33.5, 40] #New Zealand 2
       - [198.4, 207.2, 24.48, 21.78] # Cook Islands
       - [180.9, 183.1, 9.9, 6.67] # Tokelau
+      - [180.8, 195, 47.89, 40.87] # Chatham Island
+      - [152, 170.3, 54.34, 46.9] # Motu Maha
+      - [165, 169.69, 65.69, 62.4] # Balleny Islands
   - type: STR_ICELAND
     fundingBase: 10
     fundingCap: 500
@@ -418,9 +438,9 @@ countries:
       - [11, 12.552, -56.27, -54.55] # Island
       - [12.552, 12.723, -55.8, -54.735] # Kopenhagen
       - [351.086, 354.754, -61.406, -62.69] # Faroe
-      - [291.12, 347.243, -69.58, -75.99] # Greenland 1
-      - [300, 334.68, -58.3, -69.58] # Greenland 2
-      - [290.7, 345.17, -76, -80.06] # Greenland 3
+      - [301.97, 334.69, -57.86, -69.6] # Greenland 1
+      - [296, 347.482, -69.56, -76] # Greenland 2
+      - [295.5, 345.17, -76, -80] # Greenland 3
       - [14.08, 15.62, -54.73, -55.26] # Bornholdm
   - type: STR_ESTONIA
     fundingBase: 20
@@ -721,7 +741,9 @@ countries:
       - [4.5, 12.5, -64, -58.7] # Central Norway
       - [5.35, 11.64, -58, -58.7] # Southern Norway
       - [7.8, 27.7, -76.22, -80.12] # Spitzbergen
-      - [357.5, 2.1, -71.14, -73.18] # Jan Mayen
+      - [27.818, 33.32, -79.4, -80.12] # Kvitøya
+      - [14.77, 19.32, -73.72, -75.27] # Bjørnøya
+      - [347.7, 351.65, -72.12, -73.54] # Jan Mayen
       - [9.44, 16.48, 59.74, 57.67] # Bouvet Island
   - type: STR_SWEDEN
     fundingBase: 15
