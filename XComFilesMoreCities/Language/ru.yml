@@ -45,7 +45,7 @@ ru:
   STR_CHATHAM: "Острова Чатем"
   STR_STEWART: "Остров Стюарт"
   STR_LAURIE: "Остров Лори"
-  STR_PRINCE_EDWARD: "Острова Принца Эдуарда" #cut
+  STR_PRINCE_EDWARD: "Острова Принца Эдуарда"
   STR_BOUVET: "Остров Буве"
   STR_CROZET: "Острова Крозе"
   ## ГОРОДА ЮЖНОЙ АМЕРИКИ
@@ -62,7 +62,7 @@ ru:
   STR_SUCRE: "Сукре"
   STR_SANJOSE: "Сан-Хосе"
   STR_NAZCA: "Наска"
-  STR_SAN_JUAN_BAUTISTA: "Хуан Фернандес"
+  STR_SAN_JUAN_BAUTISTA: "Хуан-Фернандес"
   STR_INIRIDA: "Инирида"
   STR_PARAMARIBO: "Парамарибо"
   STR_MONTEVIDEO: "Монтевидео"
@@ -92,7 +92,7 @@ ru:
   STR_GOTLAND: "Висбю"
   STR_VOLOGDA: "Вологда"
   STR_BOLZEN: "Больцано"
-  STR_KINGISSEPA: "Озель"
+  STR_KINGISSEPA: "Кингисепп"
   STR_CONSTANTA: "Констанца"
   STR_VARNA: "Варна"
   STR_NIS: "Ниш"
@@ -310,3 +310,5 @@ ru:
   STR_HAIDA_GWAII: "Шарлотты"
   STR_LAKSHADWEEP: "Лаккадивские острова"
   STR_FERNANDO: "Фернанду-ди-Норонья"
+  STR_UNALASKA: "Уналашка"
+  STR_STPAULISLAND: "Сент-Пол"

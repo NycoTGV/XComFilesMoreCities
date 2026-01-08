@@ -45,7 +45,7 @@ en-US:
   STR_CHATHAM: "Chatham Islands"
   STR_STEWART: "Stewart Island"
   STR_LAURIE: "Laurie Island"
-  STR_PRINCE_EDWARD: "Prince Edward Islands" #cut
+  STR_PRINCE_EDWARD: "Prince Edward Islands"
   STR_BOUVET: "Bouvet Island"
   STR_CROZET: "Crozet Islands"
   ## SOUTH AMERICA CITIES
@@ -299,6 +299,7 @@ en-US:
   STR_ALHALLANIYAH: "Kuria Muria"
   STR_HAFUN: "Ras Hafun"
   STR_NANTUCKET: "Nantucket"
+  STR_FALKLAND_ISLAND: "Falklands"
   STR_MANAN: "Grand Manan"
   STR_ANNOBON: "Annobón"
   STR_PAAMIUT: "Paamiut"
@@ -307,6 +308,8 @@ en-US:
   STR_SALLIQ: "Coral Harbour"
   STR_LINEISLANDS: "Kiritimati"
   STR_MARQUESAS: "Marquesas Islands"
+  STR_UNALASKA: "Dutch Harbor"
+  STR_STPAULISLAND: "Pribilof Islands"
   STR_HAIDA_GWAII: "The Charlottes"
   STR_LAKSHADWEEP: "Laccadive Islands"
   STR_FERNANDO: "Fernando de Noronha"
