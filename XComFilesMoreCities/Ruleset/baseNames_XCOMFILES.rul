@@ -1,159 +1,265 @@
 baseNamesFirst:
+  - A
+  - Alpha
+  - Ancient
   - Ant
+  - Aradia
+  - Ave
   - Basilisk
+  - Banshee
   - Bat
   - Bear
+  - Beta
   - Beaver
   - Black
   - Blue
   - Boar
   - Bobcat
+  - Bomba
+  - Boniface
   - Bull
   - Bullfrog
+  - Cadaver
+  - Chiliast
+  - Chilietia
+  - Cipher
   - Cockroach
+  - Corpse
   - Crane
+  - Dark
+  - Darkling
+  - Death
+  - Deepwater
+  - Dimlight
+  - Doom
   - Dragon
   - Dream
+  - Dreamer
+  - Dreaming
+  - E
   - Eagle
+  - Easter
+  - Enigma
+  - Eta
+  - Eventide
+  - Evening
+  - Ever
   - Falcon
+  - Friendship
+  - Flux
   - Fox
+  - Gamma
   - Gargoyle
+  - Glimmer
+  - Glow
+  - Glowing
   - Gorgon
+  - Great
   - Green
+  - Groom
   - Griffin
+  - Gryphon
   - Hawk
+  - Hidden
+  - Hollow
+  - Hope
   - Hornet
   - Hound
   - Jaguar
   - Kestrel
   - Lion
   - Locust
+  - Lost
+  - Lustral
   - Lynx
+  - Magic
+  - Magnificent
+  - Majestic
+  - Memorial
+  - Master
+  - Mastery
   - Mantis
+  - Millennium
   - Mongoose
+  - Midnight
+  - Minatory
+  - Mirror
+  - Mirrored
+  - Mirroring
+  - Mirovia
+  - Murk
+  - Neverend
   - Nightingale
   - Nightsprite
+  - Nine
+  - Omega
+  - One
   - Owl
   - Panther
   - Phoenix
+  - Purple
+  - Prestige
+  - Prima
+  - Prime
+  - Providence
   - Ram
   - Rat
+  - Raven
   - Red
+  - Rho
+  - Safe
+  - Sage
+  - Sayona
   - Scorpion
+  - Seven
   - Silent
+  - Siren
+  - Skinwalker
+  - Sleeper
+  - Sleepy
+  - Sleepwalker
   - Snake
   - Spider
+  - Sphinx
   - Squirrel
   - Stork
+  - Storm
+  - Stormlight
+  - Sweven
+  - Tartarian
+  - The
+  - Theta
+  - Thinker
+  - Thinking
+  - Thought
+  - Torch
   - Tiger
   - Titan
   - Turtle
+  - Ultra
   - Unicorn
+  - Valor
+  - Verdant
+  - Vert
+  - Warlock
   - Weasel
   - Werewolf
   - White
+  - Wicca
   - Wildcat
   - Witch
+  - Wizard
   - Wolf
   - Wolverine
-  - Hidden
-  - Sleepy
-  - Enigma
-  - Cipher
-  - Bomba
-  - Ultra
-  - Magic
-  - Boniface
-  - Purple
-  - Groom
-  - Hope
-  - Eta
-  - Rho
-  - Omega
-  - Alpha
-  - Prime
-  - One
-  - A
-  - E
+  - Xeno
+  - XII
   - Z
-  - Flux
-  - Beta
   - Zeta
-  - Skinwalker
-  - Sleepwalker
-  - Dreaming
-  - Thinker
-  - Dreamer
-  - The
-  - Lost
-  - Mirovia
-  - Valor
-  - Friendship
-  - Seven
-  - Majestic
-  - Magnificent
-  - Lustral
+  - Zodiac
 baseNamesLast:
+  - Abyss
+  - Adyton
+  - Annex
+  - Area
+  - Agency
+  - Association
   - Base
+  - Bay
   - Bunker
+  - Bureau
   - Camp
+  - Casa
+  - Castell
   - Center
+  - Centre
+  - Central
+  - Club
   - Complex
+  - Cord
+  - Directory
+  - Division
+  - Doctrine
+  - Enclave
+  - Evangelium
+  - Expedition
   - Facility
+  - Fall
+  - Falls
+  - Farm
+  - Fault
+  - Foundation
+  - Fort
+  - Forum
+  - Grave
+  - Graves
+  - Grove
+  - Groves
+  - Head
+  - Hollows
+  - Hill
+  - Institute
+  - Initiative
+  - Island
+  - Isle
+  - Isles
+  - Key
+  - Knot
+  - Lake
+  - Lakes
+  - Mask
+  - Manor
+  - Mausoleum
+  - Mass
+  - Mesa
+  - Mount
+  - Mountain
+  - Monument
+  - Office
+  - Operation Central
+  - Oracula
+  - Order
   - Outpost
+  - Park
+  - Peak
   - Point
   - Post
   - Project
-  - Site
-  - Vault
-  - Bay
-  - Hill
-  - Lake
-  - Mesa
-  - Mountain
-  - Peak
-  - River
-  - Top
-  - Valley
-  - Woods
-  - Stronghold
-  - Fort
-  - Warden
-  - Enclave
-  - Bureau
-  - Zone
-  - Park
-  - Area
-  - Street
-  - Agency
-  - Office
-  - Division
-  - Wall
-  - Operation Central
-  - Central
-  - Farm
-  - Grove
-  - Training Center
-  - Vigil
-  - Annex
-  - Island
-  - Hollow
-  - Adyton
-  - Villa
-  - Unguent
   - Pithos
-  - Shinden
-  - Mount
-  - Tombs
-  - Monument
-  - Traps
-  - Fault
-  - Rift
-  - Trough
-  - Zenith
-  - Shrine
   - Ranch
-  - Abyss
+  - Refugia
+  - Refugium
+  - Rift
+  - River
+  - Rivers
+  - Sanctuary
+  - Sanctorium
+  - Sabbath
+  - Scarlet
+  - Shinden
+  - Shrine
+  - Site
+  - Society
+  - Strait
+  - Straits
+  - Street
+  - Stronghold
+  - Thinktank
+  - Tombs
+  - Top
+  - Training Center
+  - Traps
   - Trench
-  - Expedition
-  - Oracula
+  - Trough
+  - Trust Association
+  - Unguent
+  - Valley
+  - Vault
+  - Vigil
+  - Villa
+  - Wall
+  - Wand
+  - Warden
+  - Woods
+  - Zenith
+  - Zone
+
