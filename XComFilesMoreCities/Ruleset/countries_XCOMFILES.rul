@@ -53,6 +53,7 @@ countries:
       - [38.3, 45, -50.35, -42.75] # Caucasus 1
       - [45, 48, -50.35, -42] # Caucasus 2
       - [48, 48.5, -45.6, -42] # Caucasus 3
+      - [47.964, 49.5, -48, -45.6673] # Caucasus 4
       - [50, 60, -80, -50.75] # Ural
       - [60, 80, -80, -55.3] # Central Siberian Area Past Urals
       - [80, 190.5, -80, -50.5] # Novosibirsk
@@ -498,6 +499,8 @@ countries:
       - [21.5, 22.5, -44.75, -42.2] # eastern Serbia
       - [19.9, 21.5, -43.5, -42.8] # southcentral Serbia
       - [20.3, 21.5, -42.8, -42.2] # southern Serbia
+      - [18.452, 20.308, -42.197, -43.376] # Crna Gora 1
+      - [18.4516, 19.9739, -42.2715, -41.8733] # Crna Gora 2
   - type: STR_AUSTRIA
     fundingBase: 20
     fundingCap: 2800
