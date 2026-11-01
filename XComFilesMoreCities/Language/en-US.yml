@@ -116,14 +116,15 @@ en-US:
   STR_MISKOLC: "Miskolc"
   STR_AALBORG: "Aalborg"
   STR_PORTO: "Oporto"
-  STR_BIALYSTOK: "Bialystok" #
-  STR_BILBAO: "Bilbao" #
-  STR_ROSTOCK: "Rostock" #
-  STR_PODGORICA: "Titograd" #
-  STR_PORTSMOUTH: "Portsmouth" #
-  STR_KOROSTEN: "Korosten" #
-  STR_VALENCIA: "Valencia" #
-  STR_MONACO: "Monaco" #
+  STR_BIALYSTOK: "Bialystok"
+  STR_BILBAO: "Bilbao"
+  STR_ROSTOCK: "Rostock"
+  STR_PODGORICA: "Titograd"
+  STR_PORTSMOUTH: "Portsmouth"
+  STR_KOROSTEN: "Korosten"
+  STR_VALENCIA: "Valencia"
+  STR_MONACO: "Monaco"
+  STR_LJUBLJANA: "Lublyana"
   ## SIBERIA CITIES
   STR_MAGADAN: "Magadan"
   STR_SURGUT: "Surgut"
@@ -316,7 +317,7 @@ en-US:
   STR_GUADELOUPE: "Guadeloupe"
   STR_BARBADOS: "Barbados"
   STR_GRENADA: "Grenada"
-  STR_SAINTBARTHELEMY: "St. Barts"
+  STR_SAINTBARTHELEMY: "St. Barth"
   STR_LUCIA: "St. Lucia"
   STR_CURACAO: "Curazao"
   STR_REVILLAGIGEDO: "Revillagigedo Islands"
@@ -415,4 +416,3 @@ en-US:
   STR_SERBIA: "YUGOSLAVIA"
   STR_VIETNAM: "VIETNAM"
   STR_THAILAND: "THAILAND"
-  STR_KARAKORUM: "Karakorum"
