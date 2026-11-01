@@ -1,9 +1,11 @@
 baseNamesFirst:
   - A
+  - Abelian
   - Alpha
   - Ancient
   - Ant
   - Aradia
+  - Atlantean
   - Ave
   - Basilisk
   - Banshee
@@ -20,14 +22,16 @@ baseNamesFirst:
   - Bull
   - Bullfrog
   - Cadaver
+  - Cartesian
   - Chiliast
-  - Chilietia
+  - Chiliatia
   - Cipher
   - Cockroach
   - Corpse
   - Crane
   - Dark
   - Darkling
+  - Davidic
   - Death
   - Deepwater
   - Dimlight
@@ -41,6 +45,7 @@ baseNamesFirst:
   - Easter
   - Enigma
   - Eta
+  - Euclidean
   - Eventide
   - Evening
   - Ever
@@ -48,6 +53,7 @@ baseNamesFirst:
   - Friendship
   - Flux
   - Fox
+  - Furtive
   - Gamma
   - Gargoyle
   - Glimmer
@@ -59,6 +65,7 @@ baseNamesFirst:
   - Groom
   - Griffin
   - Gryphon
+  - Gygean
   - Hawk
   - Hidden
   - Hollow
@@ -70,6 +77,7 @@ baseNamesFirst:
   - Lion
   - Locust
   - Lost
+  - Lozenge
   - Lustral
   - Lynx
   - Magic
@@ -92,8 +100,10 @@ baseNamesFirst:
   - Nightingale
   - Nightsprite
   - Nine
+  - Noctivagant
   - Omega
   - One
+  - Orthotopic
   - Owl
   - Panther
   - Phoenix
@@ -102,6 +112,7 @@ baseNamesFirst:
   - Prima
   - Prime
   - Providence
+  - Pythagorean
   - Ram
   - Rat
   - Raven
@@ -109,19 +120,27 @@ baseNamesFirst:
   - Rho
   - Safe
   - Sage
+  - San
+  - Sampi
   - Sayona
   - Scorpion
   - Seven
+  - Sho
+  - Sigma
   - Silent
+  - Silenced
   - Siren
   - Skinwalker
   - Sleeper
   - Sleepy
   - Sleepwalker
   - Snake
+  - Solivagant
+  - Solomon
   - Spider
   - Sphinx
   - Squirrel
+  - Stigma
   - Stork
   - Storm
   - Stormlight
@@ -137,9 +156,11 @@ baseNamesFirst:
   - Titan
   - Turtle
   - Ultra
+  - Unguent
   - Unicorn
   - Valor
   - Verdant
+  - Verdigris
   - Vert
   - Warlock
   - Weasel
@@ -173,6 +194,7 @@ baseNamesLast:
   - Center
   - Centre
   - Central
+  - Chora
   - Club
   - Complex
   - Cord
@@ -180,6 +202,7 @@ baseNamesLast:
   - Division
   - Doctrine
   - Enclave
+  - Eutopia
   - Evangelium
   - Expedition
   - Facility
@@ -206,6 +229,7 @@ baseNamesLast:
   - Knot
   - Lake
   - Lakes
+  - Lattice
   - Mask
   - Manor
   - Mausoleum
@@ -218,6 +242,7 @@ baseNamesLast:
   - Operation Central
   - Oracula
   - Order
+  - Orthant
   - Outpost
   - Park
   - Peak
@@ -228,6 +253,7 @@ baseNamesLast:
   - Ranch
   - Refugia
   - Refugium
+  - Ring
   - Rift
   - River
   - Rivers
@@ -235,6 +261,10 @@ baseNamesLast:
   - Sanctorium
   - Sabbath
   - Scarlet
+  - Seal
+  - Stele
+  - Stela
+  - Stelae
   - Shinden
   - Shrine
   - Site
@@ -250,8 +280,8 @@ baseNamesLast:
   - Traps
   - Trench
   - Trough
-  - Trust Association
-  - Unguent
+  - Trust
+  - Underground
   - Valley
   - Vault
   - Vigil
