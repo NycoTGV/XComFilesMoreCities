@@ -108,9 +108,8 @@ countries:
       - [298.878, 299.927, -15.5, -16.19] # French Caribbean 2
       - [204.616, 222, 19.64, 4.07] # French Polynesia 1
       - [181.929, 183.6, 16.05, 14.95] # French Polynesia 2
-      - [54.32, 55.43, 17.155, 16.4] # French Indian Ocean 1
-      - [54.92, 56.47, 21.43, 20.79] # French Indian Ocean 2
-      - [76.15, 81.31, 39.24, 37.65] # French Indian Ocean 3
+      - [54.583, 56.47, 21.43, 20.339] # French Indian Ocean 1
+      - [76.15, 81.31, 39.24, 37.65] # French Indian Ocean 2
       - [46.15, 47.14, 12, 11.42] # French Mayotte
       - [32.412, 77.43, 52.82, 45.72] # French Arctic Islands
   - type: STR_GERMANY
