@@ -7,6 +7,7 @@ baseNamesFirst:
   - Aradia
   - Atlantean
   - Ave
+  - Babylon
   - Basilisk
   - Banshee
   - Bat
@@ -25,6 +26,8 @@ baseNamesFirst:
   - Cartesian
   - Chiliast
   - Chiliatia
+  - Cloak
+  - Cloaked
   - Cipher
   - Cockroach
   - Corpse
@@ -63,6 +66,7 @@ baseNamesFirst:
   - Great
   - Green
   - Groom
+  - Grief
   - Griffin
   - Gryphon
   - Gygean
@@ -86,6 +90,7 @@ baseNamesFirst:
   - Memorial
   - Master
   - Mastery
+  - Mason
   - Mantis
   - Millennium
   - Mongoose
@@ -97,6 +102,7 @@ baseNamesFirst:
   - Mirovia
   - Murk
   - Neverend
+  - Nightfall
   - Nightingale
   - Nightsprite
   - Nine
@@ -123,6 +129,7 @@ baseNamesFirst:
   - San
   - Sampi
   - Sayona
+  - Schwarzschild
   - Scorpion
   - Seven
   - Sho
@@ -144,8 +151,13 @@ baseNamesFirst:
   - Stork
   - Storm
   - Stormlight
+  - Sunrise
+  - Sunset
+  - Swallow
+  - Swallowing
   - Sweven
   - Tartarian
+  - Tartessian
   - The
   - Theta
   - Thinker
@@ -159,14 +171,19 @@ baseNamesFirst:
   - Unguent
   - Unicorn
   - Valor
+  - Veil
+  - Veiled
   - Verdant
   - Verdigris
   - Vert
   - Warlock
+  - Watched
+  - Watching
   - Weasel
   - Werewolf
   - White
   - Wicca
+  - Withered
   - Wildcat
   - Witch
   - Wizard
@@ -184,6 +201,9 @@ baseNamesLast:
   - Area
   - Agency
   - Association
+  - Badland
+  - Badlands
+  - Barrens
   - Base
   - Bay
   - Bunker
@@ -267,6 +287,7 @@ baseNamesLast:
   - Stelae
   - Shinden
   - Shrine
+  - Shroud
   - Site
   - Society
   - Strait
