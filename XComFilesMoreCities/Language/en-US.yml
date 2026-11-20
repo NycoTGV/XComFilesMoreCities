@@ -40,6 +40,8 @@ en-US:
   STR_LA_GONAVE: "La Gonave"
   STR_PORT-AU-PRINCE: "Port-au-Prince"
   STR_SAN_SALVADOR: "San Salvador"
+  STR_NEWPORT: "Newport"
+  STR_WHITEHORSE: "Whitehorse"
   ## ARCTIC CITIES
   STR_VORKUTA: "Vorkuta"
   STR_SVALBARD: "Svalbard"
@@ -96,6 +98,10 @@ en-US:
   STR_LUXEMBURG: "Luxembourg"
   STR_TOULOUSE: "Toulouse"
   STR_POZNAN: "Poznan"
+  STR_KIEV: "Kiev"
+  STR_ODESSA: "Odessa"
+  STR_KHARKIV: "Kharkov"
+  STR_LVIV: "Lviv"
   STR_LODZ: "Lodz"
   STR_GOMEL: "Gomel"
   STR_STAVANGER: "Stavanger"
@@ -186,6 +192,7 @@ en-US:
   STR_MAKURDI: "Makurdi"
   STR_NDAR: "Saint-Louis"
   STR_KUMASI: "Kumasi"
+  STR_MARSA_MATROUH: "Mersa Matruh"
   ## SOUTH AFRICA CITIES
   STR_POINTENOIRE: "Pointe-Noire"
   STR_DODOMA: "Dodoma"
@@ -259,6 +266,7 @@ en-US:
   STR_MANUS: "Admiralty Islands"
   STR_LORDHOWE: "Lord Howe Island"
   STR_TUVALU: "Tuvalu"
+  STR_CHRISTMAS_ISLAND: "Christmas Island"  
   ## SOUTH EAST ASIA CITIES
   STR_SAMUI: "Koh Samui"
   STR_CHIANGMAI: "Chiang Mai"
