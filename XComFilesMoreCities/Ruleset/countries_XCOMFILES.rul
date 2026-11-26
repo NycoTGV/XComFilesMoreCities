@@ -324,7 +324,7 @@ countries:
       - [230, 271, -80, -49] #moved up from -40 to -49 and cut off
       - [271, 285, -80, -44.5] #Eastern Canada Pt 1
       - [285, 305, -80, -45] #Eastern Canada Pt 2
-      - [227, 230, -55, -52.1] #Extend Canada 5
+      - [225, 230, -55, -49.1] #Haida Gwaii
       - [276, 279, -44.5, -41.59] #Toronto Region 1
       - [279, 281, -44.5, -42.74] #Toronto Region 2
       - [281, 284.3, -44.5, -43.38] #Toronto Region 3
