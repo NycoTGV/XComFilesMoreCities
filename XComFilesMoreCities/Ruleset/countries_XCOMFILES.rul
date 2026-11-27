@@ -667,6 +667,7 @@ countries:
       - [40.9, 48.5, -18.8, -17.6] #Southern Saudi Arabia
       - [50.88, 52.27, -24.6, -19.23] #near Qatar
       - [52.27, 55.2, -22.82, -19.94] #Southeastern Saudi Arabia
+      - [40.94, 42.43, -16.81, -17.584] #Farasan Island
   - type: STR_ARGENTINA
     fundingBase: 15
     fundingCap: 2500
