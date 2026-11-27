@@ -5,6 +5,7 @@ baseNamesFirst:
   - Ancient
   - Ant
   - Aradia
+  - Amortized
   - Atlantean
   - Ave
   - Babylon
@@ -14,7 +15,9 @@ baseNamesFirst:
   - Bear
   - Beta
   - Beaver
+  - Bidah
   - Black
+  - Blood
   - Blue
   - Boar
   - Bobcat
@@ -23,6 +26,7 @@ baseNamesFirst:
   - Bull
   - Bullfrog
   - Cadaver
+  - Catena
   - Cartesian
   - Chiliast
   - Chiliatia
@@ -31,14 +35,18 @@ baseNamesFirst:
   - Cipher
   - Cockroach
   - Corpse
+  - Corvus
   - Crane
+  - Dancing
   - Dark
   - Darkling
   - Davidic
   - Death
   - Deepwater
   - Dimlight
+  - Doldrum
   - Doom
+  - Doomed
   - Dragon
   - Dream
   - Dreamer
@@ -49,16 +57,25 @@ baseNamesFirst:
   - Enigma
   - Eta
   - Euclidean
+  - Euler
+  - Eulerian
   - Eventide
   - Evening
   - Ever
+  - Expound
   - Falcon
+  - Fibonacci
+  - Fiqh
   - Friendship
   - Flux
+  - Forbidden
+  - Forlorn
   - Fox
   - Furtive
   - Gamma
   - Gargoyle
+  - Gaping
+  - Gapping
   - Glimmer
   - Glow
   - Glowing
@@ -72,10 +89,14 @@ baseNamesFirst:
   - Gygean
   - Hawk
   - Hidden
+  - High
   - Hollow
+  - Holy
   - Hope
   - Hornet
   - Hound
+  - Ijma
+  - Isnad
   - Jaguar
   - Kestrel
   - Lion
@@ -105,6 +126,7 @@ baseNamesFirst:
   - Nightfall
   - Nightingale
   - Nightsprite
+  - Niihauan
   - Nine
   - Noctivagant
   - Omega
@@ -122,8 +144,11 @@ baseNamesFirst:
   - Ram
   - Rat
   - Raven
+  - Reprobate
   - Red
   - Rho
+  - Sacrificed
+  - Salsala
   - Safe
   - Sage
   - San
@@ -132,6 +157,7 @@ baseNamesFirst:
   - Schwarzschild
   - Scorpion
   - Seven
+  - Secret
   - Sho
   - Sigma
   - Silent
@@ -176,6 +202,7 @@ baseNamesFirst:
   - Verdant
   - Verdigris
   - Vert
+  - Voronoi
   - Warlock
   - Watched
   - Watching
@@ -200,6 +227,7 @@ baseNamesLast:
   - Annex
   - Area
   - Agency
+  - Algorithm
   - Association
   - Badland
   - Badlands
@@ -210,13 +238,16 @@ baseNamesLast:
   - Bureau
   - Camp
   - Casa
+  - Castle
   - Castell
+  - Catharsis
   - Center
   - Centre
   - Central
   - Chora
   - Club
   - Complex
+  - Corban
   - Cord
   - Directory
   - Division
@@ -226,6 +257,7 @@ baseNamesLast:
   - Evangelium
   - Expedition
   - Facility
+  - Factory
   - Fall
   - Falls
   - Farm
@@ -250,10 +282,14 @@ baseNamesLast:
   - Lake
   - Lakes
   - Lattice
+  - Libation
   - Mask
   - Manor
   - Mausoleum
   - Mass
+  - Mastery
+  - Mastermind
+  - Mela
   - Mesa
   - Mount
   - Mountain
@@ -262,12 +298,16 @@ baseNamesLast:
   - Operation Central
   - Oracula
   - Order
+  - Orifice
   - Orthant
   - Outpost
   - Park
   - Peak
+  - Pneuma
   - Point
+  - Pond
   - Post
+  - Priory
   - Project
   - Pithos
   - Ranch
@@ -277,9 +317,10 @@ baseNamesLast:
   - Rift
   - River
   - Rivers
+  - Sabbath
+  - Sahabah
   - Sanctuary
   - Sanctorium
-  - Sabbath
   - Scarlet
   - Seal
   - Stele
@@ -294,9 +335,12 @@ baseNamesLast:
   - Straits
   - Street
   - Stronghold
+  - Swale
+  - Tabiun
   - Thinktank
   - Tombs
   - Top
+  - Tor
   - Training Center
   - Traps
   - Trench
